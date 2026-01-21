@@ -1,0 +1,11 @@
+# Tools and Libraries used
+
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+statsmodels
+
+# Install:
+pip install pandas numpy scipy matplotlib seaborn statsmodels
