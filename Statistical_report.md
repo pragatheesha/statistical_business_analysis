@@ -15,8 +15,9 @@ The main objectives of this analysis are:
 # 3. Dataset Description
 The business_data.csv dataset is a consolidated business-level dataset created by merging sales data and customer data.It provides a unified view of transaction details, customer attributes, billing information, and churn status, making it suitable for statistical and business analysis. This dataset is used to analyze: Sales performance, Customer behavior, Revenue patterns.
 
-| Date	           | Date of the transaction                                             |
+| Column Name      | Description                                                         |
 |------------------|---------------------------------------------------------------------|
+| Date	           | Date of the transaction                                             |
 | Product	         | Product purchased by the customer                                   |
 | Quantity	       | Number of units purchased                                           |
 | Price            | Price per unit                                                      |
