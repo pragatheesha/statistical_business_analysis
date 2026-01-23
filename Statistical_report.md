@@ -5,7 +5,7 @@ This project focuses on applying statistical techniques to real-world business d
 
 # 2. Project Objectives
 The main objectives of this analysis are:
-*To summarize business data using descriptive statistics
+* To summarize business data using descriptive statistics
 *To analyze data distribution and variability
 *To evaluate relationships between key business metrics
 *To perform hypothesis testing and interpret p-values
