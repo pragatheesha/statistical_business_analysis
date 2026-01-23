@@ -55,7 +55,7 @@ The p-value was compared against a 0.05 significance level.
 # 5.5 Confidence Interval
 A 95% confidence interval was calculated for average sales to estimate the true population mean and quantify uncertainty.
 # 5.6 Regression Analysis
--A linear regression model was built to:
+- A linear regression model was built to:
 * Predict sales based on marketing spend
 * Measure strength of the relationship using R²
 * Evaluate statistical significance of coefficients
