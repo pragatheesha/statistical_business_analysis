@@ -40,7 +40,7 @@ The business_data.csv dataset is a consolidated business-level dataset created b
 * Sales-related columns were verified for consistency
 * The dataset was cleaned to ensure reliability for statistical analysis
 
-# 5.Data Types
+# 5. Data Types
 * Numerical variables: Quantity, Price, Total_Sales, Tenure, MonthlyCharges, TotalCharges
 * Categorical variables: Product, Region, Contract, PaymentMethod, PaperlessBilling, Churn
 * Identifier variables: CustomerID
