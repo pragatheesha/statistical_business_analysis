@@ -90,10 +90,13 @@ This dataset is used to:
 
 # 8. Results Summary
 - Key statistical findings include:
-* Average sales: $45,200 ± $3,400 (95% CI)
-* Correlation between sales and marketing spend: 0.78 (Strong positive)
-* Hypothesis test result: Statistically significant (p = 0.0012)
-* Regression analysis confirms marketing spend as a strong predictor of sales
+* Mean Sales: 123650.48
+* Median Sales: 97955.5
+* Standard Deviation: 100161.08527499213
+* Correlation (Sales vs Quantity): 0.6881074758580692
+* T-Statistic: 7.779538586652192
+* P-Value: 7.470163657941186e-12
+* 95% Confidence Interval: (np.float64(nan), np.float64(nan))
 
 # 9. Interpretation of Results
 * Higher marketing investment is strongly associated with increased sales
