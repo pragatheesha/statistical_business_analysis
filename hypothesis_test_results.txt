@@ -1,0 +1,5 @@
+Hypothesis Test: Total_Sales vs Quantity
+Test Used: Independent t-test
+P-Value: 7.470163657941186e-12
+Result: Statistically Significant
+Conclusion: Quantity has a significant effect on Total sales.
